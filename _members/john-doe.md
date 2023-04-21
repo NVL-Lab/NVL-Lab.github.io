@@ -1,10 +1,10 @@
 ---
 name: John Doe
-image: images/photo.jpg
-role: phd
+image: images/postdoc_default_small.png
+role: postdoc
 group: alum
 links:
   github: john-doe
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This could be you! Stay tuned!

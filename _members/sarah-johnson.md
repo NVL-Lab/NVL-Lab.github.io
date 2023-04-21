@@ -1,11 +1,11 @@
 ---
 name: Sarah Johnson
-image: images/photo.jpg
+image: images/phd_default_small.png
 description: Lead Programmer
-role: programmer
+role: phd
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This could be you! Stay tuned!
