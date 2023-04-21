@@ -1,133 +1,167 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+- id: eid:2-s2.0-85143115332
+  orcid: 0000-0002-8618-4247
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+  date: ''
+- id: doi:10.1101/2022.10.03.510669
+  title: A neural model of proximity to reward
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - P. Botros
+  - N. Vendrell-Llopis
+  - R. M. Costa
+  - J. M. Carmena
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  date: '2022-10-06'
+  link: https://doi.org/gr5234
+  orcid: 0000-0002-8618-4247
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/10/06/2022.10.03.510669/F1.large.jpg
+- id: eid:2-s2.0-85127662573
+  orcid: 0000-0002-8618-4247
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1016/j.cub.2022.02.006
+  title: Diverse operant control of different motor cortex populations during learning
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
+  - Nuria Vendrell-Llopis
+  - Ching Fang
+  - "Albert J. Q\xFC"
+  - Rui M. Costa
+  - Jose M. Carmena
+  publisher: Current Biology
+  date: '2022-04-01'
+  link: https://doi.org/gr5235
+  orcid: 0000-0002-8618-4247
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.cell.com/cms/attachment/2bd03bf9-b1b1-44ad-a7f1-5b2a22c7fa57/gr1.jpg
+- id: doi:10.1101/2021.10.29.466535
+  title: Diverse operant control of different motor cortex populations during learning
+  authors:
+  - Nuria Vendrell-Llopis
+  - Ching Fang
+  - "Albert J. Q\xFC"
+  - Rui M. Costa
+  - Jose M. Carmena
   publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  date: '2021-11-02'
+  link: https://doi.org/gr5236
+  orcid: 0000-0002-8618-4247
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: eid:2-s2.0-85121505951
+  orcid: 0000-0002-8618-4247
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1109/ner.2019.8716982
+  title: Ventral striatum uses a temporal difference rule for prediction during neuroprosthetic
+    control
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - N. Vendrell-Llopis
+  - A. Koralek
+  - R. Costa
+  - J. Carmena
+  publisher: 2019 9th International IEEE/EMBS Conference on Neural Engineering (NER)
+  date: '2019-03-01'
+  link: https://doi.org/gr5237
+  orcid: 0000-0002-8618-4247
+  plugin: orcid.py
+  file: orcid.yaml
+- id: isbn:9781538679210
+  title: Neuroprosthetic device for functional training, compensation or rehabilitation
+    of lower limbs during gait
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - M. Loreiro
+  - S. Britez
+  - S. Casco
+  - J.C. Moreno
+  - J. L. Pons
+  - F. Brunetti
+  publisher: ''
+  date: '2019-01-01'
+  link: ''
+  orcid: 0000-0002-8618-4247
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/NER.2019.8716982
+  title: Ventral striatum uses a temporal difference rule for prediction during neuroprosthetic
+    control
+  authors:
+  - N. Vendrell-Llopis
+  - A. Koralek
+  - R. Costa
+  - J. Carmena
+  publisher: 2019 9th International IEEE/EMBS Conference on Neural Engineering (NER)
+  date: '2019-03-01'
+  link: https://doi.org/gr5237
+  orcid: 0000-0002-8618-4247
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-85066765428
+  orcid: 0000-0002-8618-4247
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1038/srep17825
+  title: Evolutionary conserved brainstem circuits encode category, concentration
+    and mixtures of taste
+  authors:
+  - Nuria Vendrell-Llopis
+  - Emre Yaksi
+  publisher: Scientific Reports
+  date: '2015-12-07'
+  link: https://doi.org/f72t4n
+  orcid: 0000-0002-8618-4247
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84949515634
+  orcid: 0000-0002-8618-4247
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1016/j.cub.2014.01.015
+  title: Spontaneous Activity Governs Olfactory Representations in Spatially Organized
+    Habenular Microcircuits
+  authors:
+  - "Suresh\_Kumar Jetti"
+  - Nuria Vendrell-Llopis
+  - Emre Yaksi
+  publisher: Current Biology
+  date: '2014-02-01'
+  link: https://doi.org/f5s6kg
+  orcid: 0000-0002-8618-4247
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:24508164
+  title: Spontaneous activity governs olfactory representations in spatially organized
+    habenular microcircuits.
+  authors:
+  - Suresh Kumar Jetti
+  - Nuria Vendrell-Llopis
+  - Emre Yaksi
+  publisher: 'Current biology : CB'
+  date: '2014-02-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24508164
+  orcid: 0000-0002-8618-4247
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84894387593
+  orcid: 0000-0002-8618-4247
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1016/j.cub.2014.01.016q
+  orcid: 0000-0002-8618-4247
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: eid:2-s2.0-84914173021
+  orcid: 0000-0002-8618-4247
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
