@@ -1,20 +1,31 @@
 ---
-title: Research
+title: Code
+description: Here we will have a description of what our different repositories are and how to find them
 nav:
-  order: 1
-  tooltip: Published works
+  order: 2
+  tooltip: Github code and details
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-pc" %}Code
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Here we will have a description of what our different repositories are and how to find them. But we have nothing so far because we are in construction.
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+## My New Repository
+
+Welcome to my new repository! This repository contains code for a project I'm working on. Here's a brief overview of the project and how to use the code:
+
+### Project Overview
+
+My project is a...
+
+### Usage
+
+go to Link
+
 
 {% include section.html %}
 
@@ -23,5 +34,3 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {% include search-box.html %}
 
 {% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
