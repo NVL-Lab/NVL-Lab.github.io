@@ -1,15 +1,17 @@
 # site properties and page defaults
 title: NVL-Lab
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+description: We use neuroprosthetics to study the brain and apply what we learn to improve neuroprosthetics.
+header: images/banner_lab.png
+footer: images/banner_lab.png
+show-title: false
+show-subtitle: false
 
 # site social media and other links
 links:
   email: contact@NVL-Lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  orcid: 0000-0002-8618-4247
+  google-scholar: SWorGjsAAAAJ
   github: NVL-Lab
   twitter: NVL-Lab
   youtube: NVL-Lab
