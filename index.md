@@ -98,7 +98,7 @@ Meet the team
 
 {%
   include feature.html
-  image="images/lab_members_bgw_small.png"
+  image="images/lab_members_bgw_small_crop.png"
   link="team"
   title="Our Team"
   flip=true
