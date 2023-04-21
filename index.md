@@ -3,7 +3,7 @@
 
 # NVL-Lab's Website
 
-An engaging 1-3 sentence description of your lab.
+We are in construction!.
 
 {% include section.html %}
 
@@ -11,12 +11,12 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Come check our research.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Cool projects inside"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/bmi_bwg_2_small.png"
   link="research"
   title="Our Research"
   text=text
@@ -34,12 +34,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Come check our code.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="code"
+  text="Browse our code"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,9 +49,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  image="images/code_2vsai.png"
+  link="code"
+  title="Our Code"
   flip=true
   style="bare"
   text=text
@@ -59,7 +59,31 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Come check our papers.
+
+{%
+  include button.html
+  link="publications"
+  text="Papers and more papers"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/papers_small.png"
+  link="publications"
+  title="Our Papers"
+  text=text
+%}
+
+
+{% capture text %}
+
+Meet the team
 
 {%
   include button.html
@@ -74,7 +98,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/lab_members_bgw_small.png"
   link="team"
   title="Our Team"
   text=text
