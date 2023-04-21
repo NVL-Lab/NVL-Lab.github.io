@@ -101,5 +101,7 @@ Meet the team
   image="images/lab_members_bgw_small.png"
   link="team"
   title="Our Team"
+  flip=true
+  style="bare"
   text=text
 %}
