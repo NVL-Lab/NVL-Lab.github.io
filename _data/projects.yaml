@@ -4,7 +4,6 @@
   image: images/neuron_small.png
   link: none
   description: Neuroprosthetics are very useful to study the brain's learning processes by providing a way to measure the neural activity causally linked to behavior.
-
   repo: 
 
 - title: Optimizing neuroprosthetics
