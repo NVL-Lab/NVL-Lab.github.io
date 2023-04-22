@@ -83,7 +83,7 @@ Explore our latest published papers and see firsthand the exciting discoveries a
 
 {% capture text %}
 
-Interested in meeting the faces behind our research? Our team is comprised of passionate researchers, scientists, engineers, and professionals from diverse backgrounds, all working towards a common goal. Click through and say say hello to our team!
+Interested in meeting the faces behind our research? Our team is comprised of passionate researchers, scientists, engineers, and professionals from diverse backgrounds. Click through and say say hello to our team!
 
 {%
   include button.html

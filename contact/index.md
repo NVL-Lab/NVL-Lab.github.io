@@ -12,13 +12,13 @@ If you want to tell us how awesome we are.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="nuria.vendrell.llopis at gmail"
+  link="nuria.vendrell.llopis@gmail.com"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
+  text="(---) 000-000"
   link="+1-555-867-5309"
 %}
 {%
@@ -35,7 +35,7 @@ If you want to tell us how awesome we are.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="Still no location"
 %}
 
 {% endcapture %}
@@ -45,7 +45,7 @@ If you want to tell us how awesome we are.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="Still no location"
 %}
 
 {% endcapture %}
@@ -55,21 +55,17 @@ If you want to tell us how awesome we are.
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+We came 
+we saw 
+we kicked it's ass!
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
