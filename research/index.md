@@ -1,14 +1,14 @@
 ---
-title: Projects
+title: Research
 nav:
-  order: 2
-  tooltip: Software, datasets, and more
+  order: 1
+  tooltip: Projects we are working on
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Neuroprosthetics provide a unique opportunity to investigate the neural mechanisms of learning by enabling us to manipulate and measure neural activity in real-time. By modulating neural activity and providing sensory feedback, we gain insights into the specific neural circuits and mechanisms that underlie the acquisition, retention, and interpretation of new information. This information can be used to develop more effective interventions for individuals with learning impairments, as well as to enhance learning in healthy individuals.
+
 
 {% include tags.html tags="publication, resource, website" %}
 

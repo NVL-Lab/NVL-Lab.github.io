@@ -1,7 +1,7 @@
 ---
 title: Publications
 nav:
-  order: 3
+  order: 2
   tooltip: Published works
 ---
 
@@ -14,6 +14,8 @@ We do very cool work, check it out.
 ## Highlighted
 
 
+
+
 {% include section.html %}
 
 ## All
@@ -21,4 +23,12 @@ We do very cool work, check it out.
 {% include search-box.html %}
 
 {% include search-info.html %}
+
+{%
+  include list.html
+  data="citations"
+  component="citation"
+  filters="group: featured"
+  style="rich"
+%}
 
