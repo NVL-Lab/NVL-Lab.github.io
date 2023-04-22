@@ -59,8 +59,7 @@ If you want to tell us how awesome we are.
 {% endcapture %}
 
 {% capture col2 %}
-We came 
-we saw 
+We came, we saw,  
 we kicked it's ass!
 {% endcapture %}
 

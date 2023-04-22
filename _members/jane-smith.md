@@ -1,7 +1,7 @@
 ---
 name: Jane Smith
 image: images/student_default_small.png
-role: Student
+role: undergrad
 aliases:
   - J. Smith
 
