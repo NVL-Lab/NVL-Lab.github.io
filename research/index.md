@@ -45,9 +45,6 @@ Our overarching objective is to gain a deeper understanding of how the brain rei
   text=text
 %}
 
-
-{% capture text %}
-
 # How does dopamine release lead to learning?
 {% capture text %}
 Dopamine acts as a reinforcer of preferred behavior. However, the neural mechanisms by which this occurs remain unclear. To investigate this, I plan to employ photo-pharmacology techniques to manipulate dopamine receptors and/or employ optical stimulation within dopaminergic regions. Specifically, I will explore the impact of dopamine signaling on neuroprosthetic learning by selectively activating or inhibiting specific dopamine receptors within cell-type specific neurons in the cortex and striatum. Through these experiments, I hope to uncover the underlying mechanisms by which dopamine reinforces neural patterns and how this reinforcement ultimately leads to learning.
@@ -67,8 +64,8 @@ Dopamine acts as a reinforcer of preferred behavior. However, the neural mechani
   text=text
 %}
 
+
 ## Improving neuroprosthetics
-{% capture text %}
 
 # Optimizing neuro-stimulation paradigms
 {% capture text %}
