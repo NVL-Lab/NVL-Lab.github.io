@@ -67,8 +67,8 @@ Dopamine acts as a reinforcer of preferred behavior. However, the neural mechani
   text=text
 %}
 
+
 ## Improving neuroprosthetics
-{% capture text %}
 
 # Optimizing neuro-stimulation paradigms
 {% capture text %}
@@ -100,8 +100,6 @@ Recently, cell-specific neuro-stimulation has emerged as a possible therapy for 
   flip=true
   style="bare"
 %}
-
-{% endcapture %}
 
 {% endcapture %}
 
