@@ -103,6 +103,8 @@ Recently, cell-specific neuro-stimulation has emerged as a possible therapy for 
 
 {% endcapture %}
 
+{% endcapture %}
+
 {%
   include feature.html
   image="images/bmi_bwg_3_a_small.png"
