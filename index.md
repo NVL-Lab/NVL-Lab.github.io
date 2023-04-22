@@ -1,7 +1,7 @@
 ---
 ---
 
-# NVL-Lab's Website
+# Welcome to our lab!
 
 We are in construction!.
 
@@ -11,7 +11,7 @@ We are in construction!.
 
 {% capture text %}
 
-Come check our research.
+Discover what our lab is all about! We specialize in the field of neuroprosthetics, delving into the complexities of learning. Through our research, we aim to create innovative neuroprosthetic designs that will pave the way for more effective treatment options.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Come check our research.
 
 {% capture text %}
 
-Come check our code.
+If you're interested in utilizing our code, we invite you to check out our latest releases and repositories. Our code is fully open source, and we welcome contributions from the community. Join us in advancing the field and making a meaningful impact through collaborative development.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Come check our code.
 
 {% capture text %}
 
-Come check our papers.
+Explore our latest published papers and see firsthand the exciting discoveries and advancements we've made in our field. Our research is centered around the intricate topic of neuroprosthetic learning, offering invaluable insights into the neural basis of learning and revolutionary approaches to neuroprosthetics that push the boundaries of what's possible. Embark on this exciting journey of discovery with us and stay up-to-date on the latest developments in our field.
 
 {%
   include button.html
@@ -83,7 +83,7 @@ Come check our papers.
 
 {% capture text %}
 
-Meet the team
+Interested in meeting the faces behind our research? Our team is comprised of passionate researchers, scientists, engineers, and professionals from diverse backgrounds, all working towards a common goal. Click through and say say hello to our team!
 
 {%
   include button.html
