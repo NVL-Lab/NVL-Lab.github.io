@@ -1,0 +1,9 @@
+---
+title: So it begins!
+author: Nuria-Vendrell-Llopis
+tags:
+  - Lab life
+---
+
+include feature.html image="meme-so_it_begins.jpg"
+The website is up and running, the content is almost there. This is starting!!! Exciting!
