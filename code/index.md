@@ -2,7 +2,7 @@
 title: Code
 description: Here we will have a description of what our different repositories are and how to find them
 nav:
-  order: 2
+  order: 4
   tooltip: Github code and details
 ---
 
