@@ -1,9 +1,9 @@
 ---
-name: Jane Smith
+name: Jane XXXX
 image: images/student_default_small.png
 role: undergrad
 aliases:
-  - J. Smith
+  - J. X
 
 links:
   home-page: https://nvl-lab.github.io/
