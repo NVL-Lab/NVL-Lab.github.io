@@ -3,18 +3,18 @@
   group: featured
   image: images/neuron_small.png
   link: none
-  description: Neuroprosthetics are very useful to study the brain's learning processes by providing a way to measure the neural activity causally linked to a behavior while the brain is learning that specific behavior.
+  description: Neuroprosthetics are very useful to study the brain's learning processes by providing a way to measure the neural activity causally linked to behavior.
 
   repo: 
   tags:
     - resource
 
-- title: Improving neuroprosthetics
-  subtitle: a subtitle
+- title: Optimizing neuroprosthetics
+  subtitle: Enhance and refine the capabilities of neuroprosthetics
   group: featured
   image: images/neuroprosthetics_small.png
   link: https://github.com/
-  description: we develop optimal neuro-stimulation strategies for the study, perturbation, and enhancement of learning and develop neurotechnology-based solutions to open new treatments for cognitive dysfunction.
+  description: We develop optimal neuro-stimulation strategies for the study, perturbation, and enhancement of learning to open new treatments for cognitive dysfunction.
   repo: 
   tags:
     - resource
