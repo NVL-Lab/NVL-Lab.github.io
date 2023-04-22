@@ -16,7 +16,7 @@ We are a young team just starting to grow.
 
 {% include section.html background="images/banner_lab.png" dark=true %}
 
-here we say something
+the lab picture by picture!
 
 {% include section.html %}
 
