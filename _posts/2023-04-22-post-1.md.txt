@@ -5,5 +5,11 @@ tags:
   - Lab life
 ---
 
-include feature.html image="meme-so_it_begins.jpg"
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NVL-Lab/NVL-Lab.github.io/main/images/meme-so_it_begins.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NVL-Lab/NVL-Lab.github.io/main/images/meme-so_it_begins.jpg">
+ <img alt="ALT TEXT">
+</picture>
+
 The website is up and running, the content is almost there. This is starting!!! Exciting!
