@@ -3,13 +3,7 @@
   group: featured
   image: images/neuron_small.png
   link: none
-  description: Neuroprosthetics are very useful to study the brain's learning processes by providing a way to measure the neural activity causally linked to a behavior while the brain is learning that specific behavior. By analyzing the neural activity over time, we can identify patterns that correspond to the acquisition and retention of new skills. This provides unparalleled insight into the specific neural mechanisms that underlie learning.
-
-Neuroprosthetics can also be used to modulate neural activity in order to enhance or impair learning. For example, with electrical or optical stimulation, we can enhance or block the activity of specific neurons that are important for learning. This way,  we can identify which neural circuits are critical for learning.
-
-Moreover, we can provide or remove sensory feedback to the brain.  By analyzing the neural activity associated with this feedback or lack thereof, we gain insights into how the brain adapts to new sensory information and learns to interpret it.
-
-As you can see, neuroprosthetics provide a powerful tool for studying the neural mechanisms of learning.
+  description: Neuroprosthetics are very useful to study the brain's learning processes by providing a way to measure the neural activity causally linked to a behavior while the brain is learning that specific behavior.
 
   repo: 
   tags:
@@ -20,8 +14,7 @@ As you can see, neuroprosthetics provide a powerful tool for studying the neural
   group: featured
   image: images/neuroprosthetics_small.png
   link: https://github.com/
-  description: The field of neuroengineering needs to work towards a more bidirectional communication between biological and artificial systems for real-time control over neural function. However, identifying and selectively stimulating specific neurons or neurotransmitter signaling in a network-wide activity can be challenging.
- Our goal is to develop optimal neuro-stimulation strategies for the study, perturbation, and enhancement of learning and develop neurotechnology-based solutions to open new treatments for cognitive dysfunction.
+  description: we develop optimal neuro-stimulation strategies for the study, perturbation, and enhancement of learning and develop neurotechnology-based solutions to open new treatments for cognitive dysfunction.
   repo: 
   tags:
     - resource

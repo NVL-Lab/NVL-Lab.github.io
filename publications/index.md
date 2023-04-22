@@ -13,7 +13,13 @@ We do very cool work, check it out.
 
 ## Highlighted
 
-
+{%
+  include list.html
+  data="citations"
+  component="citation"
+  filters="group: featured"
+  style="rich"
+%}
 
 
 {% include section.html %}
@@ -28,7 +34,6 @@ We do very cool work, check it out.
   include list.html
   data="citations"
   component="citation"
-  filters="group: featured"
   style="rich"
 %}
 
