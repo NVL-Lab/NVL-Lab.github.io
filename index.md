@@ -1,7 +1,7 @@
 ---
 ---
 
-# NVL-Lab's Website
+# Welcome to our lab!
 
 We are in construction!.
 
