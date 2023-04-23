@@ -47,7 +47,7 @@ Our overarching objective is to gain a deeper understanding of how the brain rei
 
 ## How does dopamine release lead to learning?
 {% capture text %}
-Dopamine acts as a reinforcer of preferred behavior. However, the neural mechanisms by which this occurs remain unclear. To investigate this, I plan to employ photo-pharmacology techniques to manipulate dopamine receptors and/or employ optical stimulation within dopaminergic regions. Specifically, I will explore the impact of dopamine signaling on neuroprosthetic learning by selectively activating or inhibiting specific dopamine receptors within cell-type specific neurons in the cortex and striatum. Through these experiments, I hope to uncover the underlying mechanisms by which dopamine reinforces neural patterns and how this reinforcement ultimately leads to learning.
+Dopamine acts as a reinforcer of preferred behavior. However, the neural mechanisms by which this occurs remain unclear. To investigate this, we employ photo-pharmacology techniques to manipulate dopamine receptors and/or employ optical stimulation within dopaminergic regions. Specifically, we explore the impact of dopamine signaling on neuroprosthetic learning by selectively activating or inhibiting specific dopamine receptors within cell-type specific neurons in the cortex and striatum. Through these experiments, we will uncover the underlying mechanisms by which dopamine reinforces neural patterns and how this reinforcement ultimately leads to learning.
 
 {%
   include button.html
@@ -71,7 +71,7 @@ Dopamine acts as a reinforcer of preferred behavior. However, the neural mechani
 {% capture text %}
 To achieve real-time control over neural function, it is essential for neuro-engineering solutions to evolve towards more effective bi-directional communication between biological and artificial systems when studying and perturbing neuronal circuits. However, the identification and selective stimulation of appropriate neurons or precise neurotransmitter signaling can be challenging in a constantly evolving network-wide activity.
 
-The potential advantages of unsupervised learning algorithms for controlling the stimulation of single neurons or dopamine receptors have yet to be fully explored. To address this, I aim to develop new experimental protocols utilizing closed-loop strategies, which can select and drive the most effective neuro-stimulation for studying, perturbing, and enhancing neural reinforcement.
+The potential advantages of unsupervised learning algorithms for controlling the stimulation of single neurons or dopamine receptors have yet to be fully explored. To address this, we develop new experimental protocols utilizing closed-loop strategies, which can select and drive the most effective neuro-stimulation for studying, perturbing, and enhancing neural reinforcement.
 
 {%
   include button.html
