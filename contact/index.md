@@ -59,9 +59,11 @@ If you want to tell us how awesome we are.
 {% endcapture %}
 
 {% capture col2 %}
+
 {% endcapture %}
 
 {% capture col3 %}
+
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
