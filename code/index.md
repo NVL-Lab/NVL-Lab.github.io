@@ -1,6 +1,6 @@
 ---
 title: Code
-description: Here we will have a description of what our different repositories are and how to find them
+description: Repositories
 nav:
   order: 4
   tooltip: Github code and details
@@ -8,24 +8,24 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-pc" %}Code
 
-Here we will have a description of what our different repositories are and how to find them. But we have nothing so far because we are in construction.
+Greetings! If you're interested in getting down to business quickly, we invite you to visit our [GitHub page](https://github.com/NVL-Lab).
 
 {% include section.html %}
 
 ## Highlighted
 
-## My New Repository
+### CaBMI
 
-Welcome to my new repository! This repository contains code for a project I'm working on. Here's a brief overview of the project and how to use the code:
+Here's the code you need to run CaBMI on a Prairie microscope. Make sure you have both Prairie_View and Matlab installed.
+See the "oficial" release here (link pending)
+Or go to the [github repository](https://github.com/NVL-Lab/CaBMI_PrairieView)
 
-### Project Overview
+### Analysis of CaBMI data
 
-My project is a...
-
-### Usage
-
-go to Link
-
+This is the complete code that was utilized for analyzing the CaBMI data presented in the paper titled X.
+Be aware that this code is still in construction!
+See the zenodo release here
+Or go direclty to [github](https://github.com/NVL-Lab/DR_BMI)
 
 {% include section.html %}
 
