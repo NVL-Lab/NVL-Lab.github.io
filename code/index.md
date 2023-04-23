@@ -17,14 +17,19 @@ Greetings! If you're interested in getting down to business quickly, we invite y
 ### CaBMI
 
 Here's the code you need to run CaBMI on a Prairie microscope. Make sure you have both Prairie_View and Matlab installed.
+<br> 
 See the "oficial" release here (link pending)
+<br> 
 Or go to the [github repository](https://github.com/NVL-Lab/CaBMI_PrairieView)
 
 ### Analysis of CaBMI data
 
 This is the complete code that was utilized for analyzing the CaBMI data presented in the paper titled X.
+<br> 
 Be aware that this code is still in construction!
-See the zenodo release here
+<br> 
+See the zenodo release here (pending)
+<br> 
 Or go direclty to [github](https://github.com/NVL-Lab/DR_BMI)
 
 {% include section.html %}
