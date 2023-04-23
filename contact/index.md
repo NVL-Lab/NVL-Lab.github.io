@@ -50,6 +50,8 @@ If you want to tell us how awesome we are.
 
 {% endcapture %}
 
+{% include cols.html col1=col1 col2=col2 %}
+
 {% include section.html dark=true %}
 
 {% capture%}
