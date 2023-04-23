@@ -30,8 +30,6 @@ If you want to tell us how awesome we are.
 
 {% include section.html %}
 
-{% include cols.html col1=col1 col2=col2 %}
-
 {% capture col1 %}
 
 {%
@@ -52,8 +50,23 @@ If you want to tell us how awesome we are.
 
 {% endcapture %}
 
+{% include cols.html col1=col1 col2=col2 %}
+
 {% include section.html dark=true %}
+
+{% capture col1 %}
+
+{% endcapture %}
+
+{% capture col2 %}
+{% endcapture %}
+
+{% capture col3 %}
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 {% capture%}
 We came, we saw, we kicked it's ass!
 {% endcapture %}
+
