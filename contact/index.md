@@ -59,8 +59,7 @@ If you want to tell us how awesome we are.
 {% endcapture %}
 
 {% capture col2 %}
-We came, we saw,  
-we kicked it's ass!
+We came, we saw, we kicked it's ass!
 {% endcapture %}
 
 {% capture col3 %}
@@ -68,3 +67,4 @@ we kicked it's ass!
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
+
