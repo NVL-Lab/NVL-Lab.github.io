@@ -55,5 +55,3 @@ If you want to tell us how awesome we are.
 {% capture%}
 We came, we saw, we kicked it's ass!
 {% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
