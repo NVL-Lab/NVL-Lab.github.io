@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Neuroprosthetics provide a unique opportunity to investigate the neural mechanisms of learning by enabling us to manipulate and measure neural activity in real-time. By modulating neural activity and providing sensory feedback, we gain insights into the specific neural circuits and mechanisms that underlie the acquisition and refinement of learned behavior. This information can be used to develop more effective interventions for individuals with learning impairments, as well as to enhance learning in healthy individuals.
+Neuroprosthetics offer a unique opportunity to study the neural mechanisms of learning in real-time, allowing us to manipulate and measure neural activity with unmatched precision. By identifying the specific neural circuits and mechanisms that underlie learned behavior, we gain valuable insights that can be used to develop more effective interventions for those with learning impairments, as well as enhance learning in healthy individuals.
 
 
 {% include tags.html tags="publication, website" %}
