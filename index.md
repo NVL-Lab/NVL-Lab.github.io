@@ -11,7 +11,7 @@ We are in construction!.
 
 {% capture text %}
 
-Discover what our lab is all about! We specialize in the field of neuroprosthetics, delving into the complexities of learning. Through our research, we aim to create innovative neuroprosthetic designs that will pave the way for more effective treatment options.
+Discover what our lab is all about! Our research is aimed at uncovering the neural mechanisms of learning and developing innovative neuroprosthetic designs, paving the way for more effective treatment options.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ If you're interested in utilizing our code, we invite you to check out our lates
 
 {% capture text %}
 
-Explore our latest published papers and see firsthand the exciting discoveries and advancements we've made in our field. Our research is centered around the intricate topic of neuroprosthetic learning, offering invaluable insights into the neural basis of learning and revolutionary approaches to neuroprosthetics that push the boundaries of what's possible. Embark on this exciting journey of discovery with us and stay up-to-date on the latest developments in our field.
+Explore our latest published papers and see the exciting discoveries and advancements we've made in our field. Our research is centered around two topics:  neuroprosthetic learning, which offers invaluable insights into the neural basis of learning, and novel optical approaches to neuroprosthetics. Embark on this exciting journey with us.
 
 {%
   include button.html
@@ -83,7 +83,7 @@ Explore our latest published papers and see firsthand the exciting discoveries a
 
 {% capture text %}
 
-Interested in meeting the faces behind our research? Our team is comprised of passionate researchers, scientists, engineers, and professionals from diverse backgrounds. Click through and say say hello to our team!
+Interested in meeting the faces behind our research? Our team will be comprised of passionate researchers, scientists, engineers, and professionals from diverse backgrounds. Click through and say say hello to our team!
 
 {%
   include button.html
