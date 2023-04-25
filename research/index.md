@@ -29,7 +29,7 @@ Learning is a complex cognitive process that is mediated by the coordinated acti
 {% capture text %}
 We aim to explore the fundamental principles underlying learning in a reduced and experimenter-defined neuronal circuit. To achieve this goal, we will employ a neuroprosthetic paradigm to elicit specific behaviors in restrained or freely behaving rodents. We will then manipulate the neural substrate of these behaviors using electrical or optical stimulation, and characterize the functional response both at the neural and behavioral level.
 
-Our overarching objective is to gain a deeper understanding of how the brain reinforces neural patterns and acquires new cognitive skills, and how these processes can be modulated through neuro-stimulation. Through this investigation, we hope to shed light on the neural mechanisms underlying learning and pave the way for the development of novel therapeutic interventions for cognitive disorders.
+Our objective is to gain a deeper understanding of how the brain reinforces neural patterns and acquires new cognitive skills, and how these processes can be modulated through neuro-stimulation. Through this investigation, we hope to shed light on the neural mechanisms underlying learning and pave the way for the development of novel neuro-technology-based interventions for cognitive disorders.
 
 {%
   include button.html
