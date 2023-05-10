@@ -32,14 +32,15 @@ Discover what our lab is all about! Our research is aimed at uncovering the neur
   text=text
 %}
 
+
 {% capture text %}
 
-If you're interested in utilizing our code, we invite you to check out our latest releases and repositories. Our code is fully open source, and we welcome contributions from the community. Join us in advancing the field and making a meaningful impact through collaborative development.
+Interested in meeting the faces behind our research? Our team will be comprised of passionate researchers, scientists, engineers, and professionals from diverse backgrounds. Click through and say say hello to our team!
 
 {%
   include button.html
-  link="code"
-  text="Browse our code"
+  link="team"
+  text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,13 +50,14 @@ If you're interested in utilizing our code, we invite you to check out our lates
 
 {%
   include feature.html
-  image="images/code_2vsai.png"
-  link="code"
-  title="Our Code"
+  image="images/lab_members_bgw_small_crop.png"
+  link="team"
+  title="Our Team"
   flip=true
   style="bare"
   text=text
 %}
+
 
 {% capture text %}
 
@@ -80,15 +82,14 @@ Explore our latest published papers and see the exciting discoveries and advance
   text=text
 %}
 
-
 {% capture text %}
 
-Interested in meeting the faces behind our research? Our team will be comprised of passionate researchers, scientists, engineers, and professionals from diverse backgrounds. Click through and say say hello to our team!
+If you're interested in utilizing our code, we invite you to check out our latest releases and repositories. Our code is fully open source, and we welcome contributions from the community. Join us in advancing the field and making a meaningful impact through collaborative development.
 
 {%
   include button.html
-  link="team"
-  text="Meet our team"
+  link="code"
+  text="Browse our code"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -98,9 +99,9 @@ Interested in meeting the faces behind our research? Our team will be comprised 
 
 {%
   include feature.html
-  image="images/lab_members_bgw_small_crop.png"
-  link="team"
-  title="Our Team"
+  image="images/code_2vsai.png"
+  link="code"
+  title="Our Code"
   flip=true
   style="bare"
   text=text
