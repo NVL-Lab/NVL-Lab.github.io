@@ -10,5 +10,5 @@ links:
   orcid: 0000-0002-8618-4247
 ---
 
-She's crazy like a fool
-What about it Daddy Cool
+She's crazy like a fool!
+What about it Daddy Cool!
