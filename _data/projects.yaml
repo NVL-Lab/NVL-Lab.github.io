@@ -1,5 +1,5 @@
 - title: Neuroprosthetic learning
-  subtitle: Where we use prosthetics to study how the brain learns
+  subtitle: Where we use neuroprosthetics to study how the brain learns
   group: featured
   image: images/neuron_small.png
   link: https://nvl-lab.github.io/research/#neuroprosthetic-learning
@@ -7,7 +7,7 @@
   repo: 
 
 - title: Optimizing neuroprosthetics
-  subtitle: Enhance and refine the capabilities of neuroprosthetics
+  subtitle: Where we enhance and refine the capabilities of neuroprosthetics
   group: featured
   image: images/neuroprosthetics_small.png
   link: https://nvl-lab.github.io/research/#improving-neuroprosthetics
