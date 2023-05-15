@@ -40,9 +40,8 @@ Our objective is to gain a deeper understanding of how the brain reinforces neur
 {% endcapture %}
 
 {%
-  include feature.html
+  include figure.html
   image="images/studying_learning.png"
-  text=text
 %}
 
 ## How does dopamine release lead to learning?
@@ -58,10 +57,8 @@ Dopamine acts as a reinforcer of preferred behavior. However, the neural mechani
 {% endcapture %}
 
 {%
-  include feature.html
+  include figure.html
   image="images/dopamine.png"
-  flip=true
-  text=text
 %}
 
 
@@ -82,9 +79,8 @@ The potential advantages of unsupervised learning algorithms for controlling the
 {% endcapture %}
 
 {%
-  include feature.html
+  include figure.html
   image="images/optimizing_stim.png"
-  text=text
 %}
 
 ## Artificially assisting the neural mechanisms of learning
@@ -101,10 +97,8 @@ Recently, cell-specific neuro-stimulation has emerged as a possible therapy for 
 {% endcapture %}
 
 {%
-  include feature.html
+  include figure.html
   image="images/assisting_learning.png"
-  flip=true
-  text=text
 %}
 
 
