@@ -1,5 +1,5 @@
 ---
-name: John Doe
+name: Wanna join?
 image: images/postdoc_default_small.png
 role: postdoc
 group: alum
