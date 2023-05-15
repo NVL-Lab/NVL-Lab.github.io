@@ -41,7 +41,7 @@ Our objective is to gain a deeper understanding of how the brain reinforces neur
 
 {%
   include feature.html
-  image="images/neuroprosthetic_task.png"
+  image="images/studying_learning.png"
   text=text
 %}
 
@@ -83,7 +83,7 @@ The potential advantages of unsupervised learning algorithms for controlling the
 
 {%
   include feature.html
-  image="images/optimizing.png"
+  image="images/optimizing_stim.png"
   text=text
 %}
 
@@ -102,7 +102,7 @@ Recently, cell-specific neuro-stimulation has emerged as a possible therapy for 
 
 {%
   include feature.html
-  image="images/bmi_bwg_3_a_small.png"
+  image="images/assisting_learning.png"
   flip=true
   text=text
 %}
