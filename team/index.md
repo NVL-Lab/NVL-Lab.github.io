@@ -29,7 +29,7 @@ We're excited to build a collaborative and inclusive environment. Get in [touch]
 
 {% include section.html background="images/banner_lab.png" dark=true %}
 
-the lab picture by picture!
+## The lab picture by picture!
 
 {% include section.html %}
 
