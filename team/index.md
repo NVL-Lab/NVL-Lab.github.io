@@ -14,7 +14,7 @@ We are a young group starting to grow.
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html background="images/banner_lab.png" %}
+{% include section.html background="images/banner_lab.png" dark=true %}
 ## Join Our Growing, Young Team!
 {% include section.html%}
 
