@@ -7,7 +7,16 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
+We are a young group starting to grow.
+
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+
+{% include section.html background="images/banner_lab.png" %}
 ## Join Our Growing, Young Team!
+{% include section.html%}
 
 We're on the lookout for talented individuals at all levels, from postdocs to undergraduates. If you're interested, we want to hear from you. Let us know:
 
@@ -17,11 +26,6 @@ We're on the lookout for talented individuals at all levels, from postdocs to un
 - **Background.** Help us understand how your unique expertise can help us achieve our goals.
 
 We're excited to build a collaborative and inclusive environment. Get in touch to start the conversation!
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
 {% include section.html background="images/banner_lab.png" dark=true %}
 
