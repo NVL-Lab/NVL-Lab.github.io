@@ -18,6 +18,7 @@ We are a young group starting to grow.
 ## Join Our Growing, Young Team!
 {% include section.html%}
 
+### Wanna join?
 We're on the lookout for talented individuals at all levels, from postdocs to undergraduates. If you're interested, we want to hear from you. Let us know:
 
 - **Motivation.** Why you want to join our lab and how your vision aligns with ours.
