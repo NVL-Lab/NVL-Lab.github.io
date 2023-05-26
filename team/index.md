@@ -11,7 +11,7 @@ nav:
 
 We're on the lookout for talented individuals at all levels, from postdocs to undergraduates. If you're interested, we want to hear from you. Let us know:
 
-- **Why us?** Why you want to join our lab and how your vision aligns with ours.
+- **Motivation.** Why you want to join our lab and how your vision aligns with ours.
 - **Questions.** The specific questions you're passionate about addressing.
 - **Project.** If you have a project in mind, we'd love to hear about it!
 - **Background.** Help us understand how your unique expertise can help us achieve our goals.
