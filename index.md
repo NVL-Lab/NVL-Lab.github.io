@@ -90,7 +90,7 @@ Explore our latest published papers and see the exciting discoveries and advance
 
 {% capture text %}
 
-If you're interested in utilizing our code, we invite you to check out our latest releases and repositories. Our code is fully open source, and we welcome contributions from the community. Join us in advancing the field and making a meaningful impact through collaborative development.
+If you're interested in utilizing our code, we invite you to check out our latest releases and repositories. Our code is fully open source and we welcome contributions from the community. Join us in advancing the field and making a meaningful impact through collaborative development.
 
 {%
   include button.html
