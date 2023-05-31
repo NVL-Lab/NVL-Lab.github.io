@@ -42,7 +42,7 @@ Discover what our lab is all about! Our research is aimed at uncovering the neur
 
 {% capture text %}
 
-Interested in meeting the faces behind our research? Our team will be comprised of passionate researchers, scientists, engineers, and professionals from diverse backgrounds. Click through and say say hello to our team!
+Interested in meeting the faces behind our research? Our team consists of passionate researchers, scientists, engineers, and professionals from diverse backgrounds. Click through and say say hello to our team!
 
 {%
   include button.html
