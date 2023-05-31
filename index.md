@@ -3,7 +3,15 @@
 
 # Welcome to our lab!
 
-We are in construction!.
+{% capture lorem %}
+We are actively looking for undergrads to help build the lab. [Interested?](https://nvl-lab.github.io/team/#wanna-join)
+{% endcapture %}
+
+{%
+  include alert.html
+  type="tip"
+  content=content
+%}
 
 {% include section.html %}
 
