@@ -35,5 +35,6 @@ We do very cool work, check it out.
   data="citations"
   component="citation"
   style="rich"
+  filters="title: .+" %
 %}
 
