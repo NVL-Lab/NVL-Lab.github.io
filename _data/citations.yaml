@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2023.05.31.542532
+  title: Distinct neural representations during a brain-machine interface and manual
+    reaching task in motor cortex, prefrontal cortex, and striatum
+  authors:
+  - Ellen L. Zippi
+  - Gabrielle F. Shvartsman
+  - Nuria Vendrell-Llopis
+  - Joni D. Wallis
+  - Jose M. Carmena
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-06-01'
+  link: https://doi.org/gsbswc
+  orcid: 0000-0002-8618-4247
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/06/01/2023.05.31.542532/F5.large.jpg
 - id: eid:2-s2.0-85143115332
   orcid: 0000-0002-8618-4247
   plugin: orcid.py
