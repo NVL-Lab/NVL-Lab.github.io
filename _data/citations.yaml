@@ -155,18 +155,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:24508164
-  title: Spontaneous activity governs olfactory representations in spatially organized
-    habenular microcircuits.
-  authors:
-  - Suresh Kumar Jetti
-  - Nuria Vendrell-Llopis
-  - Emre Yaksi
-  publisher: 'Current biology : CB'
-  date: '2014-02-06'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/24508164
   orcid: 0000-0002-8618-4247
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: eid:2-s2.0-84894387593
   orcid: 0000-0002-8618-4247
   plugin: orcid.py
