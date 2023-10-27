@@ -174,3 +174,18 @@
   plugin: orcid.py
   file: orcid.yaml
   date: ''
+- id: doi:10.1038/s41598-023-44405-y
+  title: "Distinct neural representations during a brain\u2013machine interface and\
+    \ manual reaching task in motor cortex, prefrontal cortex, and striatum"
+  authors:
+  - Ellen L. Zippi
+  - Gabrielle F. Shvartsman
+  - Nuria Vendrell-Llopis
+  - Joni D. Wallis
+  - Jose M. Carmena
+  publisher: Scientific Reports
+  date: '2023-10-19'
+  link: https://doi.org/gszvqf
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/06/01/2023.05.31.542532/F5.large.jpg
+  plugin: sources.py
+  file: sources.yaml
