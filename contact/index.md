@@ -12,8 +12,8 @@ If you want to tell us how awesome we are.
 {%
   include button.html
   type="email"
-  text="nuria.vendrell.llopis at gmail"
-  link="nuria.vendrell.llopis@gmail.com"
+  text="nvl2 at uab.edu"
+  link="nvl2@uab.edu"
 %}
 {%
   include button.html
