@@ -3,18 +3,6 @@
 
 # Welcome to our lab!
 
-{% capture text %}
-We are actively looking for undergrads to help build the lab. [Interested?](https://nvl-lab.github.io/team/#wanna-join)
-{% endcapture %}
-
-{%
-  include alert.html
-  type="tip"
-  content=text
-%}
-
-{% include section.html %}
-
 ## Highlights
 
 {% capture text %}
