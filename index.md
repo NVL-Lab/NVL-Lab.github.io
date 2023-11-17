@@ -2,7 +2,7 @@
 ---
 
 # Welcome to our lab!
-
+## Highlights
 {% capture text %}
 
 Discover what our lab is all about! Our research is aimed at uncovering the neural mechanisms of learning and developing innovative neuroprosthetic designs, paving the way for more effective treatment options.
