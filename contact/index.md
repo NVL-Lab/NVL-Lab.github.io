@@ -12,7 +12,7 @@ If you want to tell us how awesome we are.
 {%
   include button.html
   type="email"
-  text="nvl2 at uab.edu"
+  text="nvl2 at uab dot edu"
   link="nvl2@uab.edu"
 %}
 {%
