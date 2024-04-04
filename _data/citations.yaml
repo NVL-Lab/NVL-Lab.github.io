@@ -106,15 +106,14 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: isbn:9781538679210
-  title: Neuroprosthetic device for functional training, compensation or rehabilitation
-    of lower limbs during gait
+  title: Closed-loop Tactile Augmentation by Transcutaneous Stimulation on either
+    the Foot Sole or the Palm to Improve Lateral Postural Balance
   authors:
-  - M. Loreiro
-  - S. Britez
-  - S. Casco
-  - J.C. Moreno
-  - J. L. Pons
-  - F. Brunetti
+  - Jake Azbell
+  - Jaekwan K. Park
+  - Shuo-Hsiu Chang
+  - Marielle PKJ Engelen
+  - Hangue Park
   publisher: ''
   date: '2019-01-01'
   link: ''
