@@ -1,6 +1,6 @@
 ---
 name: Asmita Pal
-image: images/asmita_pal.jpg
+image: images/asmita_pal.jpeg
 role: master_s
 links:
   email: apal@uab.edu
