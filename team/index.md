@@ -41,7 +41,7 @@ Remember, this advice applies to any application you submit. Best of luck in you
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/laser_is_here.jpg" caption="Laser has arrived!" %}
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
