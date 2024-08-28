@@ -12,7 +12,10 @@ We are a young group starting to grow.
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc" %}
+{% include list.html data="members" component="portrait" filters="role: phd" %}
+{% include list.html data="members" component="portrait" filters="role: master_s" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 {% include section.html background="images/banner_lab.png" dark=true %}
 ## Join Our Growing, Young Team!
