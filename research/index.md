@@ -23,13 +23,14 @@ Neuroprosthetics offer a unique opportunity to study the neural mechanisms of le
 {% include section.html %}
 
 # Neuroprosthetic Learning
-Learning is a complex cognitive process that is mediated by the coordinated activity of multiple brain areas and the recruitment of numerous neurons. Given this complexity, it is advantageous to simplify the neural circuitry under study in order to more effectively investigate the neural basis of learning. 
+Learning is a complex cognitive process mediated by the coordinated activity of multiple brain areas and the recruitment of numerous neurons. Given this complexity, simplifying the neural circuitry under study can more effectively investigate the neural basis of learning. 
 
 ## What are the neural mechanisms underlying learning?
 {% capture text %}
-We aim to explore the fundamental principles underlying learning in a reduced and experimenter-defined neuronal circuit. To achieve this goal, we will employ a neuroprosthetic paradigm to elicit specific behaviors in restrained or freely behaving rodents. We will then manipulate the neural substrate of these behaviors using electrical or optical stimulation, and characterize the functional response both at the neural and behavioral level.
+We aim to explore the fundamental learning principles in a reduced and experimenter-defined neuronal circuit. To achieve this goal, we will employ a neuroprosthetic paradigm to elicit specific behaviors in restrained or freely behaving rodents. We will then manipulate the neural substrate of these behaviors using electrical or optical stimulation, and characterize the functional response both at the neural and behavioral level.
 
-Our objective is to gain a deeper understanding of how the brain reinforces neural patterns and acquires new cognitive skills, and how these processes can be modulated through neuro-stimulation. Through this investigation, we hope to shed light on the neural mechanisms underlying learning and pave the way for the development of novel neuro-technology-based interventions for cognitive disorders.
+
+We aim to better understand how the brain strengthens neural patterns and learns new skills, as well as how we can influence these processes with neuro-stimulation. By digging into these areas, our goal is to uncover the neural mechanisms behind learning and open up new possibilities for treating cognitive disorders with neurotechnology.
 
 {%
   include button.html
@@ -69,7 +70,7 @@ Dopamine acts as a reinforcer of preferred behavior. However, the neural mechani
 
 ## Optimizing neuro-stimulation paradigms
 {% capture text %}
-To achieve real-time control over neural function, it is essential for neuro-engineering solutions to evolve towards more effective bi-directional communication between biological and artificial systems when studying and perturbing neuronal circuits. However, the identification and selective stimulation of appropriate neurons or precise neurotransmitter signaling can be challenging in a constantly evolving network-wide activity.
+To achieve real-time control over neural function, neuro-engineering solutions must evolve towards more effective bidirectional communication between biological and artificial systems when studying and perturbing neuronal circuits. However, identifying and selectively stimulating appropriate neurons or precise neurotransmitter signaling can be challenging in a constantly evolving network-wide activity.
 
 The potential advantages of unsupervised learning algorithms for controlling the stimulation of single neurons or dopamine receptors have yet to be fully explored. To address this, we develop new experimental protocols utilizing closed-loop strategies, which can select and drive the most effective neuro-stimulation for studying, perturbing, and enhancing neural reinforcement.
 

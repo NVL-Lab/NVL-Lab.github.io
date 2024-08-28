@@ -28,7 +28,7 @@ Discover what our lab is all about! Our research is aimed at uncovering the neur
 
 {% capture text %}
 
-Interested in meeting the faces behind our research? Our team consists of passionate researchers, scientists, engineers, and professionals from diverse backgrounds. Click through and say say hello to our team!
+Interested in meeting the faces behind our research? We are scientists, engineers, and professionals from diverse backgrounds. Click through and say say hello to our team!
 
 {%
   include button.html
@@ -53,7 +53,7 @@ Interested in meeting the faces behind our research? Our team consists of passio
 
 {% capture text %}
 
-Explore our latest published papers and see the exciting discoveries and advancements we've made in our field. Our research is centered around two topics:  neuroprosthetic learning, which offers invaluable insights into the neural basis of learning, and novel optical approaches to neuroprosthetics. Embark on this exciting journey with us.
+Check out our latest papers to see what we've been working on. We’re exploring how neuroprosthetics can help us understand the mechanisms underlying learning and developing new algorithms for bidirectional brain-machine interfaces. 
 
 {%
   include button.html
@@ -76,7 +76,8 @@ Explore our latest published papers and see the exciting discoveries and advance
 
 {% capture text %}
 
-If you're interested in utilizing our code, we invite you to check out our latest releases and repositories. Our code is fully open source and we welcome contributions from the community. Join us in advancing the field and making a meaningful impact through collaborative development.
+
+If you’d like to use our code, feel free to explore our latest releases and repositories. Everything is open source, and we’re always excited to see contributions from the community. 
 
 {%
   include button.html
