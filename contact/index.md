@@ -17,15 +17,9 @@ If you want to tell us how awesome we are.
 %}
 {%
   include button.html
-  type="phone"
-  text="(---) 000-000"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  tooltip="Our lab"
+  link="https://www.google.com/maps/place/UAB+Shelby+Interdisciplinary+Biomedical+Research/@33.5037983,-86.8013411,18.75z/data=!3m1!5s0x88891bea06f92875:0xd5054f6c90561814!4m14!1m7!3m6!1s0x88891bc18af02695:0xb37ae18adf6939da!2sShelby+Building!8m2!3d33.503782!4d-86.800573!16s%2Fg%2F11b6z1sx9_!3m5!1s0x88891bc22080c495:0x31bdf42c0843116b!8m2!3d33.5036657!4d-86.8005837!16s%2Fg%2F11c1qlfv_g?entry=ttu&g_ep=EgoyMDI0MDgyNy4wIKXMDSoASAFQAw%3D%3D"
 %}
 
 {% include section.html %}
