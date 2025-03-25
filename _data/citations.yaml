@@ -20,8 +20,10 @@
   date: '2025-03-01'
   link: https://doi.org/g89sxt
   orcid: 0000-0002-8618-4247
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  group: featured
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627324009127-gr2.jpg
 - id: doi:10.1038/s41598-023-44405-y
   title: "Distinct neural representations during a brain\u2013machine interface and\
     \ manual reaching task in motor cortex, prefrontal cortex, and striatum"
