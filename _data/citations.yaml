@@ -1,5 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.neuron.2024.12.013
+  title: Dopamine D1 receptor activation in the striatum is sufficient to drive reinforcement
+    of anteceding cortical patterns
+  authors:
+  - Nuria Vendrell-Llopis
+  - Jonathan Read
+  - Samantha Boggiano
+  - Belinda Hetzler
+  - Zisis Peitsinis
+  - Cherise Stanley
+  - Meike Visel
+  - Dirk Trauner
+  - Prashant Donthamsetti
+  - Jose Carmena
+  - Stephan Lammel
+  - Ehud Y. Isacoff
+  publisher: Neuron
+  date: '2025-03-01'
+  link: https://doi.org/g89sxt
+  orcid: 0000-0002-8618-4247
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41598-023-44405-y
   title: "Distinct neural representations during a brain\u2013machine interface and\
     \ manual reaching task in motor cortex, prefrontal cortex, and striatum"
@@ -106,15 +128,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: isbn:9781538679210
-  title: Closed-loop Tactile Augmentation by Transcutaneous Stimulation on either
-    the Foot Sole or the Palm to Improve Lateral Postural Balance
-  authors:
-  - Jake Azbell
-  - Jaekwan K. Park
-  - Shuo-Hsiu Chang
-  - Marielle PKJ Engelen
-  - Hangue Park
-  publisher: ''
+  title: '9th International IEEE EMBS Conference on Neural Engineering: 20-23 March
+    2019, the Hilton Union Square, San Francisco, California'
+  authors: []
+  publisher: IEEE
   date: '2019-01-01'
   link: ''
   orcid: 0000-0002-8618-4247
