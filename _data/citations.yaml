@@ -49,7 +49,7 @@
   - Nuria Vendrell-Llopis
   - Joni D. Wallis
   - Jose M. Carmena
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-06-01'
   link: https://doi.org/gsbswc
   orcid: 0000-0002-8618-4247
@@ -68,7 +68,7 @@
   - N. Vendrell-Llopis
   - R. M. Costa
   - J. M. Carmena
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-10-06'
   link: https://doi.org/gr5234
   orcid: 0000-0002-8618-4247
@@ -103,7 +103,7 @@
   - "Albert J. Q\xFC"
   - Rui M. Costa
   - Jose M. Carmena
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-11-02'
   link: https://doi.org/gr5236
   orcid: 0000-0002-8618-4247
@@ -129,10 +129,15 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: isbn:9781538679210
-  title: '9th International IEEE EMBS Conference on Neural Engineering: 20-23 March
-    2019, the Hilton Union Square, San Francisco, California'
-  authors: []
-  publisher: IEEE
+  title: Closed-loop Tactile Augmentation by Transcutaneous Stimulation on either
+    the Foot Sole or the Palm to Improve Lateral Postural Balance
+  authors:
+  - Jake Azbell
+  - Jaekwan K. Park
+  - Shuo-Hsiu Chang
+  - Marielle PKJ Engelen
+  - Hangue Park
+  publisher: ''
   date: '2019-01-01'
   link: ''
   orcid: 0000-0002-8618-4247
