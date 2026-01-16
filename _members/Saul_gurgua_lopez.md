@@ -1,6 +1,6 @@
 ---
 name: Saul Gurgua Lopez
-image: images/saul.png
+image: images/saulglopez.png
 role: phd
 links:
   email: sgurgua4@uab.edu
