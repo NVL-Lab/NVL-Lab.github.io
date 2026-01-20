@@ -2,6 +2,7 @@
 name: Maddie Ramesh
 image: images/MR_photo.png
 role: undergrad
+status: past
 links:
   email: mramesh@uab.edu
 ---

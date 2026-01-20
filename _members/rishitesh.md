@@ -2,6 +2,7 @@
 name: Sai Rishitesh Reddy Ganesham
 image: images/rishitesh.png
 role: master_s
+status: past
 links:
   email: rraut@uab.edu
 ---

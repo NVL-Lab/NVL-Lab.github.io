@@ -2,6 +2,7 @@
 name: Asmita Pal
 image: images/asmita_pal.jpeg
 role: master_s
+status: past
 links:
   email: apal@uab.edu
 ---

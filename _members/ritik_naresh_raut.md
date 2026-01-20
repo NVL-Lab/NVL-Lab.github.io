@@ -2,6 +2,7 @@
 name: Ritik Naresh Raut
 image: images/profile_raut.jpg
 role: master_s
+status: past
 links:
   email: rraut@uab.edu
 ---

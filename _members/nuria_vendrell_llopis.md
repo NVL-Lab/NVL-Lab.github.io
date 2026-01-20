@@ -2,6 +2,7 @@
 name: Nuria Vendrell Llopis
 image: images/pic_2023.jpg
 role: pi
+status: current
 aliases:
   - Nuria Vendrell-Llopis
 

@@ -2,6 +2,7 @@
 name: Khaliya Jakoi Reynolds
 image: images/Khaliya.jpg
 role: undergrad
+status: current
 links:
   email: kr9535@uab.edu
 ---

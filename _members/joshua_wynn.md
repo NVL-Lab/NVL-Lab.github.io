@@ -2,6 +2,7 @@
 name: Joshua Wynn
 image: images/joshua.png
 role: undergrad
+status: past
 links:
   email: jbwynn@uab.edu
 ---

@@ -2,6 +2,7 @@
 name: Sudheer Kumar Azmeera
 image: images/sudheer.png
 role: master_s
+status: past
 links:
   email: sazmeera@uab.edu
 ---

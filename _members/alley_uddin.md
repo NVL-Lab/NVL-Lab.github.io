@@ -2,6 +2,7 @@
 name: Alley Uddin
 image: images/alley_uddin.jpg
 role: undergrad
+status: past
 links:
   email: auddin@uab.edu
 ---
