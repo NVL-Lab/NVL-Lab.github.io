@@ -22,14 +22,14 @@ We are a young group starting to grow.
 ## Past members
 
 ### Postdocs
-{% include list.html data="members" component="member_name" filters="role: postdoc, status: past" %}
+{% include list.html data="members" component="member-name" filters="role: postdoc, status: past" %}
 
 ### Graduate students
-{% include list.html data="members" component="member_name" filters="role: phd, status: past" %}
-{% include list.html data="members" component="member_name" filters="role: master_s, status: past" %}
+{% include list.html data="members" component="member-name" filters="role: phd, status: past" %}
+{% include list.html data="members" component="member-name" filters="role: master_s, status: past" %}
 
 ### Undergraduates
-{% include list.html data="members" component="member_name" filters="role: undergrad, status: past" %}
+{% include list.html data="members" component="member-name" filters="role: undergrad, status: past" %}
 
 
 {% include section.html background="images/banner_lab.png" dark=true %}
