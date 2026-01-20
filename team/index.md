@@ -11,11 +11,26 @@ We are a young group starting to grow.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: postdoc" %}
-{% include list.html data="members" component="portrait" filters="role: phd" %}
-{% include list.html data="members" component="portrait" filters="role: master_s" %}
-{% include list.html data="members" component="portrait" filters="role: undergrad" %}
+{% include list.html data="members" component="portrait" filters="role: pi, status: current" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, status: current" %}
+{% include list.html data="members" component="portrait" filters="role: phd, status: current" %}
+{% include list.html data="members" component="portrait" filters="role: master_s, status: current" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, status: current" %}
+
+{% include section.html %}
+
+## Past members
+
+### Postdocs
+{% include list.html data="members" component="member_name" filters="role: postdoc, status: past" %}
+
+### Graduate students
+{% include list.html data="members" component="member_name" filters="role: phd, status: past" %}
+{% include list.html data="members" component="member_name" filters="role: master_s, status: past" %}
+
+### Undergraduates
+{% include list.html data="members" component="member_name" filters="role: undergrad, status: past" %}
+
 
 {% include section.html background="images/banner_lab.png" dark=true %}
 ## Join Our Growing, Young Team!
