@@ -26,9 +26,13 @@ We are a young group starting to grow.
   {% include list.html data="members" component="member-name" filters="role: postdoc, status: past" %}
 </ul>
 
-### Graduate students
+### PhD students
 <ul class="member-names">
   {% include list.html data="members" component="member-name" filters="role: phd, status: past" %}
+</ul>
+
+### Master students
+<ul class="member-names">
   {% include list.html data="members" component="member-name" filters="role: master_s, status: past" %}
 </ul>
 
