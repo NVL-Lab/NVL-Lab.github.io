@@ -2,6 +2,7 @@
 name: Anna Moore
 image: images/anna_moore.jpg
 role: undergrad
+status: current
 links:
   email: Mooreae@uab.edu
 ---
