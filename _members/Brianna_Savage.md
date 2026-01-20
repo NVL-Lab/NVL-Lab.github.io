@@ -2,6 +2,7 @@
 name: Brianna Savage
 image: images/NVL Lab picture.jpg
 role: undergrad
+status: current
 links:
   email: basava23@uab.edu
 ---
