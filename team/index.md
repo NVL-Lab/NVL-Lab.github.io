@@ -12,6 +12,7 @@ We are a young group starting to grow.
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi, status: current" %}
+{% include list.html data="members" component="portrait" filters="role: lab_manager, status: current" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, status: current" %}
 {% include list.html data="members" component="portrait" filters="role: phd, status: current" %}
 {% include list.html data="members" component="portrait" filters="role: master_s, status: current" %}
