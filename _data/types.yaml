@@ -7,7 +7,7 @@ pi:
   description: Principal Investigator
 
 lab_manager:
-  icon: fa-solid fa-flask
+  icon: fa-solid fa-microscope
   description: Lab Manager
 
 postdoc:
