@@ -1,7 +1,7 @@
 ---
 name: Piyali Das
 image: images/DSC_0818.JPG
-role: Lab Manager
+role: lab_manager
 status: current
 links:
   email: piyalidas@uabmc.edu

@@ -6,6 +6,10 @@ pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
+lab_manager:
+  icon: fa-solid flask-gear
+  description: Lab Manager
+
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
