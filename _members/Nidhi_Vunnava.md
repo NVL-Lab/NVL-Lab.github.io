@@ -1,7 +1,7 @@
 ---
 name: Nidhi Vunnava
 image:
-role: 
+role: undergrad
 status: current
 links:
   email: svunnava@uab.edu
