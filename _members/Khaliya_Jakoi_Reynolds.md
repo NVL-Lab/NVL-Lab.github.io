@@ -1,5 +1,5 @@
 ---
-name: Khaliya Jakoi Reynolds
+name: Khaliya Reynolds
 image: images/Khaliya.jpg
 role: undergrad
 status: current
