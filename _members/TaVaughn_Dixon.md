@@ -1,7 +1,7 @@
 ---
 name: TaVaughn Dixon
 image:
-role: 
+role: undergrad
 status: current
 links:
   email: toharmon@uab.edu
