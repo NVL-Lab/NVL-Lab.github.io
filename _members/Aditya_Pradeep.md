@@ -1,7 +1,7 @@
 ---
 name: Aditya Pradeep
 image:
-role: 
+role: undergrad
 status: current
 links:
   email: apradeep@uab.edu
